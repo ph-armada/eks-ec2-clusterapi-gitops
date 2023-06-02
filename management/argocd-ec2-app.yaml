@@ -9,7 +9,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: 'capi-cluster/aws-ec2'
-    repoURL: 'https://github.com/ph-armada/eks-ec2-clusterapi-gitop'
+    repoURL: 'https://github.com/ph-armada/eks-ec2-clusterapi-gitops'
     targetRevision: HEAD
     #helm:
      # valueFiles:
